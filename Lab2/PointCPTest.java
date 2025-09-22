@@ -75,7 +75,7 @@ public class PointCPTest
     point.convertStorageToPolar();
     System.out.println("\nAfter asking to store as Polar:\n" + point);
     endTime = System.currentTimeMillis();
-	System.out.println(endTime - startTime);
+	  System.out.println(endTime - startTime);
   }
 
   /**
